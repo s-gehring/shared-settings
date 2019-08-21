@@ -1,0 +1,9 @@
+<application>
+  <component name="EditorSettings">
+    <option name="CARET_BLINKING_PERIOD" value="250" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
+</application>
