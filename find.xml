@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'chili-search'" />
-    <option name="defaultScopeName" value="Project 'chili-search'" />
-    <option name="SEARCH_SCOPE" value="Project 'chili-search'" />
+    <option name="customScope" value="Project 'kmvn'" />
+    <option name="defaultScopeName" value="Project 'kmvn'" />
+    <option name="SEARCH_SCOPE" value="Project 'kmvn'" />
   </component>
 </application>
