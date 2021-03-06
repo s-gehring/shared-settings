@@ -1,6 +1,5 @@
 <application>
   <component name="UISettings">
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
-    <option name="MAX_CLIPBOARD_CONTENTS" value="100" />
   </component>
 </application>
