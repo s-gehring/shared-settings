@@ -12,9 +12,19 @@
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="CloudCodeCloudRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Code: Cloud Run" pluginName="Cloud Code" pluginId="com.google.gct.core" />
+                    </value>
+                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="GCPDebug">
+                    <value>
+                      <FeaturePluginData displayName="Google Cloud Debugger" pluginName="com.google.gct.core" pluginId="com.google.gct.core" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -72,6 +82,16 @@
                       <FeaturePluginData displayName="AWS Lambda" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
                     </value>
                   </entry>
+                  <entry key="gcp-app-engine-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Google App Engine Deployment" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="google-container-tools-skaffold-run-config">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Code: Kubernetes" pluginName="Cloud Code" pluginId="com.google.gct.core" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
@@ -82,6 +102,16 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="app-engine-flexible">
+                    <value>
+                      <FeaturePluginData displayName="Google App Engine Flexible" pluginName="com.google.gct.core" pluginId="com.google.gct.core" />
+                    </value>
+                  </entry>
+                  <entry key="app-engine-standard">
+                    <value>
+                      <FeaturePluginData displayName="Google App Engine Standard" pluginName="com.google.gct.core" pluginId="com.google.gct.core" />
+                    </value>
+                  </entry>
                   <entry key="kotlin-language">
                     <value>
                       <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
