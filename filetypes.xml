@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="V4__hare_url_unique_index" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
