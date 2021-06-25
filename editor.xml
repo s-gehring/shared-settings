@@ -13,6 +13,7 @@
   <component name="EditorSettings">
     <option name="CARET_BLINKING_PERIOD" value="250" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
