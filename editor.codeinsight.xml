@@ -1,6 +1,5 @@
 <application>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseAccessors" value="true" />
-    <option name="replaceVarWithInferredType" value="true" />
+  <component name="KotlinCodeInsightSettings">
+    <option name="addUnambiguousImportsOnTheFly" value="true" />
   </component>
 </application>
