@@ -1,0 +1,26 @@
+<application>
+  <component name="aws">
+    <option name="profilesNotification" value="Always" />
+    <option name="promptedForTelemetry" value="true" />
+    <option name="telemetryEnabled" value="false" />
+    <option name="useDefaultCredentialRegion" value="Prompt" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="id" value="cloud-debugCli" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="id" value="samCli" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="C:\Program Files\Amazon\AWSCLIV2\aws.exe" />
+          <option name="id" value="awsCli" />
+          <option name="lastKnownFileTime" value="1601565122000" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+</application>
