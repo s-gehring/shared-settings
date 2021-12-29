@@ -4,6 +4,7 @@
       <mapping pattern="V4__hare_url_unique_index" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
