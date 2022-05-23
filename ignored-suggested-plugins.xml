@@ -4,6 +4,8 @@
       <list>
         <option value="com.haulmont.jpab" />
         <option value="com.intellij.bigdatatools" />
+        <option value="com.microsoft.tooling.msservices.intellij.azure" />
+        <option value="aws.toolkit" />
       </list>
     </option>
   </component>
